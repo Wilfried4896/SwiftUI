@@ -15,8 +15,8 @@ struct MovieDetail: View {
        
         VStack {
             UrlImage(urlString: movieDetail.Images[1])
-                .frame(height: 300)
-                .ignoresSafeArea(edges: .top)
+                .frame(height: 301)
+                //.ignoresSafeArea(edges: .top)
             
             VStack(alignment: .leading) {
                 Text(movieDetail.Title)
