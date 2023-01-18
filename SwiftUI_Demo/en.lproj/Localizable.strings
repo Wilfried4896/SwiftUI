@@ -1,0 +1,31 @@
+/* 
+  Localizable.strings
+  SwiftUI_Demo
+
+  Created by Вилфриэд Оди on 16.01.2023.
+  
+*/
+
+// ProfileView
+"Login" = "Login In";
+"EmailPhaced" = "Email or phone";
+"PasswordText" = "Password";
+
+// TabView
+"feed" = "Feed";
+"profile" = "Profile";
+"player" = "Player";
+"video" = "Video";
+"recorder" = "Recorder";
+
+
+// List
+"movies" = "Movies";
+
+// Detail
+"date" = "Release date";
+"time" = "Time";
+"description" = "Description";
+
+
+
